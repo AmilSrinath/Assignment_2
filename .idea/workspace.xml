@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6971865-b79e-4bb6-a162-482bdd2d7ee5" name="Changes" comment="Adding Div Tag">
-      <change afterPath="$PROJECT_DIR$/assest/Location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/Mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/Phone.png" afterDir="false" />
+    <list default="true" id="c6971865-b79e-4bb6-a162-482bdd2d7ee5" name="Changes" comment="Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -34,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/apple/IdeaProjects/My_Portfolio_using_HTML/assest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/IdeaProjects/My_Portfolio_using_HTML/assest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assest" />
@@ -79,6 +76,8 @@
       <workItem from="1689997120608" duration="776000" />
       <workItem from="1690254248983" duration="710000" />
       <workItem from="1690424631830" duration="2456000" />
+      <workItem from="1690467367378" duration="5147000" />
+      <workItem from="1690518814031" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Photo and Index file">
       <option name="closed" value="true" />
@@ -104,7 +103,31 @@
       <option name="project" value="LOCAL" />
       <updated>1689844291548</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding Contact Form">
+      <option name="closed" value="true" />
+      <created>1690469114974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690469114974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Downloading button create">
+      <option name="closed" value="true" />
+      <created>1690469520927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690469520927</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Done">
+      <option name="closed" value="true" />
+      <created>1690471131966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690471131966</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +138,9 @@
     <MESSAGE value="Adding Photo and Index file" />
     <MESSAGE value="Deleting Spaces" />
     <MESSAGE value="Adding Div Tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Div Tag" />
+    <MESSAGE value="Adding Contact Form" />
+    <MESSAGE value="Downloading button create" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
